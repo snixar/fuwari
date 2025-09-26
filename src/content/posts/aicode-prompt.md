@@ -8,7 +8,7 @@ category: '教程'
 draft: false 
 lang: ''
 ---
-
+> 视频链接： https://www.bilibili.com/video/BV1jw38z9EEn/
 # 正确的引导方法
 
 先搞清楚你自己具体的需求。比如代码用什么语言编写？用什么技术栈？要具体实现什么功能？应用的场景是什么？是前端、后端还是全栈等等
