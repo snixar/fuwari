@@ -35,5 +35,5 @@ Mac默认的Python3.9，太老了，使用brew可以安装最新版的Python，�
 brew link python@3.13 --force
 ```
 # 未完待续...
-我写不动了
+我写不动了，好像Bot还4了
 *2025/09/30 11:28* 第一次修订
