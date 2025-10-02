@@ -27,7 +27,9 @@
         box-decoration-break: clone;
         -webkit-box-decoration-break: clone;
         
-        display: inline-block;
+        word-break: break-all;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     
         &:hover, &:active {
             @apply decoration-transparent;
