@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7fba91f3a6a8515",
+        "id": "7f06a11af95175a9",
         "type": "tabs",
         "children": [
           {
-            "id": "df86d4763cc3c83c",
+            "id": "96b79d1156396696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/mac-gal.md",
+                "file": "posts/manosaba-unzip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mac-gal"
+              "title": "manosaba-unzip"
             }
           }
         ]
@@ -169,24 +169,25 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "df86d4763cc3c83c",
+  "active": "96b79d1156396696",
   "lastOpenFiles": [
-    "assets/images/mac-gal-6.png",
-    "assets/images/mac-gal-5.png",
-    "assets/images/mac-gal-4.png",
-    "assets/images/mac-gal-3.png",
-    "assets/images/mac-gal-2.png",
-    "assets/images/mac-gal-1.png",
-    "assets/images/mac-gal.png",
-    "posts/hugo.md",
+    "assets/images/manosaba-unzip-10.png",
+    "assets/images/manosaba-unzip-9.png",
+    "assets/images/manosaba-unzip-8.png",
+    "assets/images/manosaba-unzip-7.png",
+    "assets/images/manosaba-unzip-6.png",
+    "assets/images/manosaba-unzip-5.png",
+    "assets/images/manosaba-unzip-4.png",
+    "assets/images/manosaba-unzip-3.png",
+    "assets/images/manosaba-unzip-2.png",
+    "assets/images/manosaba-unzip-1.png",
+    "assets/images/manosaba-unzip.png",
     "posts/mac-gal.md",
-    "assets/images/d5441bcd48dca4226efe40ba6d522551.png",
+    "posts/manosaba-unzip.md",
+    "posts/hugo.md",
     "posts/mac.md",
-    "assets/images/mac-5.png",
     "posts/obsidian.md",
     "posts/oci.md",
-    "assets/images/mac-4.png",
-    "assets/images/mac-3.png",
     "posts/acg-randompic-api.md",
     "posts/未命名.md",
     "posts/pin.md",
