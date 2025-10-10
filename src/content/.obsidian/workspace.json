@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/manosaba-unzip.md",
+                "file": "posts/first-pc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manosaba-unzip"
+              "title": "first-pc"
             }
           }
         ]
@@ -171,19 +171,21 @@
   },
   "active": "96b79d1156396696",
   "lastOpenFiles": [
-    "assets/images/manosaba-unzip-10.png",
-    "assets/images/manosaba-unzip-9.png",
-    "assets/images/manosaba-unzip-8.png",
-    "assets/images/manosaba-unzip-7.png",
-    "assets/images/manosaba-unzip-6.png",
-    "assets/images/manosaba-unzip-5.png",
-    "assets/images/manosaba-unzip-4.png",
-    "assets/images/manosaba-unzip-3.png",
-    "assets/images/manosaba-unzip-2.png",
-    "assets/images/manosaba-unzip-1.png",
-    "assets/images/manosaba-unzip.png",
-    "posts/mac-gal.md",
+    "assets/images/first-pc-4.png",
+    "assets/images/first-pc-3.png",
+    "assets/images/first-pc-2.png",
+    "assets/images/d1122f2dcca5ea532c7aa45483120e3d.png",
+    "assets/images/first-pc-1.png",
+    "assets/images/first-pc.png",
+    "assets/images/IMG20251011055119.jpg",
+    "assets/images/IMG20251010160613 1.jpg",
+    "assets/images/Screenshot_2025-10-11-05-49-05-90_c03b3f779c2dfd4.jpg",
+    "assets/images/Screenshot_2025-10-11-05-48-41-11_4fbb30eb7b71661.jpg",
+    "assets/images/Screenshot_2025-10-11-05-48-04-91_4fbb30eb7b71661.jpg",
+    "posts/new-nas.md",
     "posts/manosaba-unzip.md",
+    "posts/first-pc.md",
+    "posts/mac-gal.md",
     "posts/hugo.md",
     "posts/mac.md",
     "posts/obsidian.md",
