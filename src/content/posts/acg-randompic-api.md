@@ -15,7 +15,7 @@ lang: ''
 
 ~~门户里面的API端点： https://hpic.072103.xyz https://vpic.072103.xyz （CF Worker）~~
 
-博客用的API端点： https://eopageapi.2x.nz/pic?img=ua （EdgeOne Pages Functions）
+博客用的API端点： https://eopfapi.2b2x.cn/pic?img=ua （EdgeOne Pages Functions）
 
 # 新版实现
 
@@ -33,7 +33,7 @@ EdgeOne Pages Functions作为入口，当收到请求后首先区分 横屏、�
 
 ![](../assets/images/2025-08-31-04-13-17-image.png)
 
-API就拿我正投入使用的 https://eopageapi.2x.nz/pic?img=ua 来说
+API就拿我正投入使用的 https://eopfapi.2b2x.cn/pic?img=ua 来说
 
 看域名也可以看出来，这是一个 **EdgeOne Pages Functions** 服务（下文简称 **eopf** ），什么？你问为什么用这个？那当然是因为！ **目前所有功能完全免费！**
 
