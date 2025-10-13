@@ -52,7 +52,7 @@ lang: ""
 
 那么装机后效果如图
 
-![](../assets/images/IMG20251010160613%201.jpg)![](../assets/images/IMG20251011055119.jpg)
+![](../assets/images/IMG202510101606131.jpg)![](../assets/images/IMG20251011055119.jpg)
 
 # 装机教程
 
