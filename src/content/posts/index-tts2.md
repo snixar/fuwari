@@ -11,6 +11,8 @@ lang: ""
 ---
 # 正式开始
 
+> 视频教程： https://www.bilibili.com/video/BV1qv41zgEjE/
+
 > 请全程魔法
 
 安装Git Lfs： `git lfs install`
