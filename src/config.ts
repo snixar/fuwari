@@ -81,16 +81,6 @@ export const profileConfig: ProfileConfig = {
 	name: "二叉树树",
 	bio: "Protect What You Love.",
 	links: [
-		{
-			name: "Bilibli",
-			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/325903362",
-		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/afoim",
-		},
 	],
 };
 
