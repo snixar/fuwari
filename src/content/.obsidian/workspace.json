@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index-tts2.md",
+                "file": "posts/hook-steam-drm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-tts2"
+              "title": "hook-steam-drm"
             }
           }
         ]
@@ -171,20 +171,22 @@
   },
   "active": "96b79d1156396696",
   "lastOpenFiles": [
+    "assets/images/VMWSQyHhF5.gif",
+    "assets/images/hook-steam-drm-6.png",
+    "assets/images/hook-steam-drm-5.png",
+    "assets/images/hook-steam-drm-4.png",
+    "assets/images/hook-steam-drm-3.png",
+    "assets/images/hook-steam-drm-2.png",
+    "assets/images/hook-steam-drm-1.png",
+    "assets/images/hook-steam-drm.png",
+    "posts/index-tts2.md",
+    "posts/hook-steam-drm.md",
     "posts/rvc.md",
     "posts/replay.md",
     "assets/images/rvc-19.png",
     "assets/images/rvc-18.png",
     "assets/images/rvc-17.png",
-    "assets/images/rvc-16.png",
-    "assets/images/rvc-15.png",
-    "assets/images/rvc-14.png",
-    "assets/images/rvc-13.png",
-    "assets/images/rvc-12.png",
-    "assets/images/rvc-11.png",
-    "assets/images/rvc-10.png",
     "posts/first-pc.md",
-    "posts/index-tts2.md",
     "posts/pin.md",
     "posts/static-view.md",
     "posts/new-nas.md",
